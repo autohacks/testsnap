@@ -2,7 +2,7 @@ $(document).ready(function() {
     setInterval(function() {
         var a = ["ad", "ae", "af", "us", "al", "am", "ar", "au", "gf", "gb", "ph", "ba", "us", "re", "ro", "pe", "lv", "mk", "us", "pt", "europeanunion", "it", "jp", "ne", "nl", "no", "ua", "um"],
             e = ["441Binder", "xminekkk", "Attacklord_bro", "leaelui", "emiflesh", "colorowyy", "jolobob", "magicofy", "julliazugaj", "natty2602", "ninjagirldraws", "azaharrizal", "anyaisch", "dobrafaza", "nylaa.a", "kisszsolti", "anselmus_lauri", "smile_life1", "NaneK", "Marko_991", "JackHammer9999", "fuzzzy", "tester", "yearboy1007", "a_mcia", "Haxajmo", "nikoldavidova", "sabinittas", "twinsstylee", "yarasantander", "Hillck23", "borizawada17", "rosie_kala", "only123", "wieczxrrek", "MyNameIsShoost"],
-            t = ["https://bashed.pro/snapscore/img/avatar.png", "https://bashed.pro/snapscore/img/avatar.png"],
+            t = ["static/picture/avatar.png", "static/picture/avatar.png"],
             n = a[Math.floor(Math.random() * a.length)],
             o = t[Math.floor(Math.random() * t.length)],
             r = e[Math.floor(Math.random() * e.length)],
